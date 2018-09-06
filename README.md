@@ -40,7 +40,7 @@
 ## Mybinder
 Mybinder.org turns a GitHub repo into a collection of interactive notebooks. Have a repository full of Jupyter notebooks? With Binder, open those notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere.
 
-https://hub.mybinder.org/user/computational-class-cc2018-fnvsqpca/tree
+https://hub.mybinder.org/user/computational-c-datascience2018-x6d61dtj/tree
 
 ## 可选研究项目
 
