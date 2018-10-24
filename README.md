@@ -44,6 +44,10 @@ https://hub.mybinder.org/user/computational-c-datascience2018-x6d61dtj/tree
 
 ## 可选研究项目
 
+本课程鼓励采用公开的竞赛数据作为研究项目。现有的竞赛数据平台很多，包括[Kaggle](https://www.kaggle.com/)、[DataFoundation](https://www.datafoundation.org/)、[阿里云天池大赛](https://tianchi.aliyun.com/)、[DC竞赛](http://www.dcjingsai.com/static_page/cmpList.html)、[BienData](https://www.biendata.com/)等。
+
+### 曾使用过的题目
+
 1. 分析《权力的游戏》中的核心人物及其演变
 
 **A Network analysis of Game of Thrones**: Analyze the network of characters in Game of Thrones and how it changes over the course of the books. https://www.datacamp.com/projects/76
