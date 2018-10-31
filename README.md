@@ -26,9 +26,9 @@
 | 6 | 10月10日| 14:00-16:00 | Python基础: [Control Flow Statements](/PythonTour/07-Control-Flow-Statements.ipynb)、[Defining Functions](/PythonTour/08-Defining-Functions.ipynb)、[Errors and Exceptions](/PythonTour/09-Errors-and-Exceptions.ipynb)| 2学时|
 | 7 | 10月17日 | 14:00-16:00 | Python基础: [Iterators](/PythonTour/10-Iterators.ipynb) & [List Comprehensions](/PythonTour/11-List-Comprehensions.ipynb)| 2学时|
 | 8 | 10月24日 | 14:00-16:00 | Python基础: [Generators and Generator Expressions](/PythonTour/12-Generators.ipynb)、[Modules and Packages](/PythonTour/13-Modules-and-Packages.ipynb)、[Strings and Regular Expressions](/PythonTour/14-Strings-and-Regular-Expressions.ipynb)| 2学时|
-| 9 | 10月31日 | 14:00-16:00 | 统计基础：概率 | 2学时|
-| 10 | 11月7日 |  14:00-16:00  | 统计基础：假设检验 |0学时|
-| 11 | 11月14日 | 14:00-16:00 | 统计基础：梯度递减| 2学时
+| 9 | 10月31日 | 14:00-16:00 | 统计基础：[描述数据](/data-science-from-scratch/code-python3/5.statistics.ipynb)、[概率](data-science-from-scratch/code-python3/6.probability.ipynb) | 2学时|
+| 10 | 11月7日 |  14:00-16:00  | 统计基础：[假设检验](/data-science-from-scratch/code-python3/7.hypothesis_inference.ipynb)、[梯度递减](/data-science-from-scratch/code-python3/8.gradient_descent.ipynb) |0学时|
+| 11 | 11月14日 | 14:00-16:00 | 统计基础：[回归分析](/data-science-from-scratch/code-python3/14.regression.ipynb)| 2学时
 | 12 | 11月21日 | 14:00-16:00 | 数据科学: [Introduction to NumPy](/PythonDataScience/notebooks/02.00-Introduction-to-NumPy.ipynb)| 2学时|
 | 13| 11月28日 | 14:00-16:00 |  数据科学:[Data Manipulation with Pandas](/PythonDataScience/notebooks/03.00-Introduction-to-Pandas.ipynb) | 2学时|
 | 14 | 12月5日 | 14:00-16:00 | 数据科学: [Visualization with Matplotlib](/PythonDataScience/notebooks/04.00-Introduction-To-Matplotlib.ipynb) | 2学时|
