@@ -1,0 +1,10 @@
+ body,td,th {
+	font-size: 13px;
+}
+table {width:90%; margin:0px auto;}
+.title_table {margin-top:20px;  margin-bottom:10px;}
+.title_table tr {height:22px;}
+.shuju {border:1px solid #333; border-collapse:collapse;}
+.shuju td,.shuju th{border:1px solid #333; }
+.shuju th{ text-aligh:center; font-weight:700; }
+.qianzi { margin-top:10px;}
