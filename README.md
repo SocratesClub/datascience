@@ -31,7 +31,7 @@
 | 11 | 11月14日 | 14:00-16:00 | 统计基础：[回归分析](/3.scratch/code-python3/14.regression.ipynb)| 2学时
 | 12 | 11月21日 | 14:00-16:00 | 数据科学: [Introduction to NumPy](/4.datasci/notebooks/02.00-Introduction-to-NumPy.ipynb)| 2学时|
 | 13| 11月28日 | 14:00-16:00 |  数据科学:[Data Manipulation with Pandas](/4.datasci/notebooks/03.00-Introduction-to-Pandas.ipynb) | 2学时|
-| 14 | 12月5日 | 14:00-16:00 | 数据科学: [Visualization with Matplotlib](/4.datasci/notebooks/04.00-Introduction-To-Matplotlib.ipynb) | 2学时|
+| 14 | 12月5日 | 14:00-16:00 | 数据科学: [Visualization with Matplotlib](/4.datasci/notebooks/04.00-Introduction-To-Matplotlib.ipynb)、[Seaborn](/4.datasci/notebooks/04.14-Visualization-With-Seaborn.ipynb) | 2学时|
 | 15 | 12月12日| 14:00-16:00 |数据科学:[Machine Learning](/4.datasci/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
 | 16 | 12月19日 | 14:00-16:00 | 数据科学:[Machine Learning](/4.datasci/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
 | 17 | 12月26日 | 14:00-16:00 | 数据科学:[Machine Learning](/4.datasci/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
