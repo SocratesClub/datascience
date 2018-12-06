@@ -18,23 +18,23 @@
 
 | 序号          |  日期         |    时间   |内容        | 课时数量   |
 | -------------|:-------------:|:-------------:|:-------------:|-----:|
-| 1 | 9月5日 | 14:00-16:00 | 引言：数据科学简介/课程简介 | 2学时
-| 2 | 9月12日 | 14:00-16:00 | Python基础: [Introduction](/PythonTour/00-Introduction.ipynb)、[How to Run Python Code](/PythonTour/01-How-to-Run-Python-Code.ipynb)、[Basic Python Syntax](/PythonTour/02-Basic-Python-Syntax.ipynb)| 2学时|
-| 3 | 9月19日 | 14:00-16:00 |  Python基础: [ Variables](/PythonTour/03-Semantics-Variables.ipynb) & [Operators](/PythonTour/04-Semantics-Operators.ipynb) |2学时|
-| 4 | 9月26日 | 14:00-16:00 | Python基础: [Built-In Scalar Types](/PythonTour/05-Built-in-Scalar-Types.ipynb) & [Data Structures](/PythonTour/06-Built-in-Data-Structures.ipynb) | 2学时|
+| 1 | 9月5日 | 14:00-16:00 | 引言：[数据科学简介](/1.intro/01.intro2datasci.ipynb)/[课程简介](/1.intro/03.python_intro.ipynb)| 2学时
+| 2 | 9月12日 | 14:00-16:00 | Python基础: [Introduction](/2.tour/00-Introduction.ipynb)、[How to Run Python Code](/2.tour/01-How-to-Run-Python-Code.ipynb)、[Basic Python Syntax](/2.tour/02-Basic-Python-Syntax.ipynb)| 2学时|
+| 3 | 9月19日 | 14:00-16:00 |  Python基础: [ Variables](/2.tour/03-Semantics-Variables.ipynb) & [Operators](/2.tour/04-Semantics-Operators.ipynb) |2学时|
+| 4 | 9月26日 | 14:00-16:00 | Python基础: [Built-In Scalar Types](/2.tour/05-Built-in-Scalar-Types.ipynb) & [Data Structures](/2.tour/06-Built-in-Data-Structures.ipynb) | 2学时|
 | 5 | 10月3日 | 14:00-16:00 | <del>**国庆节放假**(不补课)</del> | 0学时|
-| 6 | 10月10日| 14:00-16:00 | Python基础: [Control Flow Statements](/PythonTour/07-Control-Flow-Statements.ipynb)、[Defining Functions](/PythonTour/08-Defining-Functions.ipynb)、[Errors and Exceptions](/PythonTour/09-Errors-and-Exceptions.ipynb)| 2学时|
-| 7 | 10月17日 | 14:00-16:00 | Python基础: [Iterators](/PythonTour/10-Iterators.ipynb) & [List Comprehensions](/PythonTour/11-List-Comprehensions.ipynb)| 2学时|
-| 8 | 10月24日 | 14:00-16:00 | Python基础: [Generators and Generator Expressions](/PythonTour/12-Generators.ipynb)、[Modules and Packages](/PythonTour/13-Modules-and-Packages.ipynb)、[Strings and Regular Expressions](/PythonTour/14-Strings-and-Regular-Expressions.ipynb)| 2学时|
-| 9 | 10月31日 | 14:00-16:00 | 统计基础：[描述数据](/data-science-from-scratch/code-python3/5.statistics.ipynb)、[概率](data-science-from-scratch/code-python3/6.probability.ipynb) | 2学时|
-| 10 | 11月7日 |  14:00-16:00  | 统计基础：[假设检验](/data-science-from-scratch/code-python3/7.hypothesis_inference.ipynb)、[梯度递减](/data-science-from-scratch/code-python3/8.gradient_descent.ipynb) |2学时|
-| 11 | 11月14日 | 14:00-16:00 | 统计基础：[回归分析](/data-science-from-scratch/code-python3/14.regression.ipynb)| 2学时
-| 12 | 11月21日 | 14:00-16:00 | 数据科学: [Introduction to NumPy](/PythonDataScience/notebooks/02.00-Introduction-to-NumPy.ipynb)| 2学时|
-| 13| 11月28日 | 14:00-16:00 |  数据科学:[Data Manipulation with Pandas](/PythonDataScience/notebooks/03.00-Introduction-to-Pandas.ipynb) | 2学时|
-| 14 | 12月5日 | 14:00-16:00 | 数据科学: [Visualization with Matplotlib](/PythonDataScience/notebooks/04.00-Introduction-To-Matplotlib.ipynb) | 2学时|
-| 15 | 12月12日| 14:00-16:00 |数据科学:[Machine Learning](/PythonDataScience/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
-| 16 | 12月19日 | 14:00-16:00 | 数据科学:[Machine Learning](/PythonDataScience/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
-| 17 | 12月26日 | 14:00-16:00 | 数据科学:[Machine Learning](/PythonDataScience/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
+| 6 | 10月10日| 14:00-16:00 | Python基础: [Control Flow Statements](/2.tour/07-Control-Flow-Statements.ipynb)、[Defining Functions](/2.tour/08-Defining-Functions.ipynb)、[Errors and Exceptions](/2.tour/09-Errors-and-Exceptions.ipynb)| 2学时|
+| 7 | 10月17日 | 14:00-16:00 | Python基础: [Iterators](/2.tour/10-Iterators.ipynb) & [List Comprehensions](/2.tour/11-List-Comprehensions.ipynb)| 2学时|
+| 8 | 10月24日 | 14:00-16:00 | Python基础: [Generators and Generator Expressions](/2.tour/12-Generators.ipynb)、[Modules and Packages](/2.tour/13-Modules-and-Packages.ipynb)、[Strings and Regular Expressions](/2.tour/14-Strings-and-Regular-Expressions.ipynb)| 2学时|
+| 9 | 10月31日 | 14:00-16:00 | 统计基础：[描述数据](/3.scratch/code-python3/5.statistics.ipynb)、[概率](data-science-from-scratch/code-python3/6.probability.ipynb) | 2学时|
+| 10 | 11月7日 |  14:00-16:00  | 统计基础：[假设检验](/3.scratch/code-python3/7.hypothesis_inference.ipynb)、[梯度递减](/3.scratch/code-python3/8.gradient_descent.ipynb) |2学时|
+| 11 | 11月14日 | 14:00-16:00 | 统计基础：[回归分析](/3.scratch/code-python3/14.regression.ipynb)| 2学时
+| 12 | 11月21日 | 14:00-16:00 | 数据科学: [Introduction to NumPy](/4.datasci/notebooks/02.00-Introduction-to-NumPy.ipynb)| 2学时|
+| 13| 11月28日 | 14:00-16:00 |  数据科学:[Data Manipulation with Pandas](/4.datasci/notebooks/03.00-Introduction-to-Pandas.ipynb) | 2学时|
+| 14 | 12月5日 | 14:00-16:00 | 数据科学: [Visualization with Matplotlib](/4.datasci/notebooks/04.00-Introduction-To-Matplotlib.ipynb) | 2学时|
+| 15 | 12月12日| 14:00-16:00 |数据科学:[Machine Learning](/4.datasci/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
+| 16 | 12月19日 | 14:00-16:00 | 数据科学:[Machine Learning](/4.datasci/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
+| 17 | 12月26日 | 14:00-16:00 | 数据科学:[Machine Learning](/4.datasci/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
 
 
 ## Mybinder
@@ -80,17 +80,16 @@ Get the [Data](https://github.com/computational-class/asoiaf)
 - Olympic Data Analysis https://github.com/data-journalism/olympic
 
 
-## 参考书（Recommended Textbooks）
+## 推荐教材（Recommended Textbooks）
 
 - **Whirlwind Tour Of Python** https://jakevdp.github.io/WhirlwindTourOfPython/
-- **Python Data Science Handbook** https://jakevdp.github.io/PythonDataScienceHandbook/
 - **Data Science from Scratch** https://github.com/joelgrus/data-science-from-scratch
+- **Python Data Science Handbook** https://jakevdp.github.io/PythonDataScienceHandbook/
+
+## 参考书
 - **Python for Data Analysis** by Wes McKinney, published by O'Reilly Media https://github.com/data-science-lab/pydata-book
 - Easley, David and [Jon Kleinberg](http://www.cs.cornell.edu/home/kleinber/). 2011.[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/). New York: Cambridge University. 大卫・伊斯利, & 乔恩・克莱因伯格. (2011). [网络、群体与市场](https://www.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E3%80%81%E7%BE%A4%E4%BD%93%E4%B8%8E%E5%B8%82%E5%9C%BA):揭示高度互联世界的行为原理与效应机制. 清华大学出版社.
 - Jure Leskovec, Anand Rajaraman, Jeffrey David Ullman.2011. Mining massive datasets (2nd)http://www.mmds.org/
-- 朝乐门 (2017)数据科学理论与实践.清华大学出版社
-- 朝乐门 (2016)数据科学.清华大学出版社
-
 
 
 ## 相关课程
