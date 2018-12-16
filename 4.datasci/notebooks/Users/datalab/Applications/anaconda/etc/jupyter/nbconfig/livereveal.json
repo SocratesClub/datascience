@@ -1,0 +1,7 @@
+{
+  "auto_select": "code",
+  "transition": "zoom",
+  "auto_select_fragment": false,
+  "start_slideshow_at": "selected",
+  "theme": "sky"
+}
