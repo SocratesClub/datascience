@@ -50,6 +50,7 @@ https://hub.mybinder.org/user/computational-c-datascience2018-x6d61dtj/tree
 1. 房价预测 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/
 2. 预测银行用户是否参与定期存款 http://www.dcjingsai.com/common/cmpt/ANZ%20Chengdu%20Data%20Science%20Competition_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html?lang=en_US
 3. 游戏玩家的付费预测 http://www.dcjingsai.com/common/cmpt/%E6%B8%B8%E6%88%8F%E7%8E%A9%E5%AE%B6%E4%BB%98%E8%B4%B9%E9%87%91%E9%A2%9D%E9%A2%84%E6%B5%8B%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html
+4. 预测假新闻 https://www.kaggle.com/c/fake-news
 
 ### 曾使用过的题目
 
