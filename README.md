@@ -48,8 +48,8 @@ https://hub.mybinder.org/user/computational-c-datascience2018-x6d61dtj/tree
 
 **课程研究项目**的基本要求：
 1. 必选项目来自以下四个推荐题目。
-  - 使用Jupyter Notebook进行数据分析并提交Jupyter notebook，注明姓名和学号。
-  - Jupyter Notebook应该采用Markdown的形式提供充足的文字描述，对代码和分析结果进行解读。
+  - 使用Jupyter Notebook进行数据分析并提交Jupyter notebook，注明姓名和学号。
+  - Jupyter Notebook应该采用Markdown的形式提供充足的文字描述，对代码和分析结果进行解读。
   - 建议包括以下部分：
     - 项目简介：包括项目题目、主要的想法等
     - 数据读入和清洗：使用pandas读取数据，提取和构造需要的变量
@@ -59,14 +59,14 @@ https://hub.mybinder.org/user/computational-c-datascience2018-x6d61dtj/tree
       - 采用T检验、方差分析、相关分析、回归分析对变量间的关系进行分析
     - 机器学习
       - 使用sklearn
-      - 将数据分割成为train和test两部分，采用train data训练模型，采用test data进行模型评价
+      - 将数据分割成为train和test两部分，采用train data训练模型，采用test data进行模型评价
         - 回归任务，报告：R2指标
         - 分类任务，报告accuracy、precision、recall、f1、roc_auc_score
       - 采用cross validation的方法，对全部的train data进行分析，并进行模型评价
     - 数据可视化：采用可视化辅助进行描述性分析、统计分析、机器学习
     - 总结：对整个研究项目的发现进行总结。
 2. 任选项目
-  - 属于额外加分项，不做强制要求
+  - 属于额外加分项，不做强制要求
   - 也可以从四个当中再选一个，或者自己选择其他题目
 3. Deadline:
   - 农历大年夜；
