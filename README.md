@@ -62,7 +62,7 @@ https://hub.mybinder.org/user/computational-c-datascience2018-x6d61dtj/tree
       - 将数据分割成为train和test两部分，采用train data训练模型，采用test data进行模型评价
         - 回归任务，报告：R2指标
         - 分类任务，报告accuracy、precision、recall、f1、roc_auc_score
-      - 采用cross validation的方法，对全部的train data进行分析，并进行模型评价
+      - 采用cross validation的方法，对整个train data进行分析，并进行模型评价
     - 数据可视化：采用可视化辅助进行描述性分析、统计分析、机器学习
     - 总结：对整个研究项目的发现进行总结。
 2. 任选项目
