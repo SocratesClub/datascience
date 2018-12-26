@@ -95,6 +95,7 @@ Get the [Data](https://github.com/computational-class/asoiaf)
 ## 参考书
 - **Python for Data Analysis** by Wes McKinney, published by O'Reilly Media https://github.com/data-science-lab/pydata-book
 - **Introduction to Machine Learning with Python: A Guide for Data Scientist** https://github.com/amueller/introduction_to_ml_with_python.
+- **Machine Learning in Action** https://github.com/pbharrin/machinelearninginaction & https://github.com/RedstoneWill/MachineLearningInAction-Camp & https://github.com/TingNie/Machine-learning-in-action
 - Easley, David and [Jon Kleinberg](http://www.cs.cornell.edu/home/kleinber/). 2011.[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/). New York: Cambridge University. 大卫・伊斯利, & 乔恩・克莱因伯格. (2011). [网络、群体与市场](https://www.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E3%80%81%E7%BE%A4%E4%BD%93%E4%B8%8E%E5%B8%82%E5%9C%BA):揭示高度互联世界的行为原理与效应机制. 清华大学出版社.
 - Jure Leskovec, Anand Rajaraman, Jeffrey David Ullman.2011. Mining massive datasets (2nd)http://www.mmds.org/
 
