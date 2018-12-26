@@ -133,4 +133,4 @@ Get the [Data](https://github.com/computational-class/asoiaf)
 - 复旦大学新媒体硕士项目《计算新闻传播学》课程  https://github.com/computational-class/cjc
 - 南京大学《数据新闻》2017课程 https://github.com/data-journalism/dj2017
 - 用Python玩转数据_南京大学_中国大学MOOC(慕课) http://www.icourse163.org/course/nju-1001571005
-- Advanced Machine Learning with scikit-learn, Andreas Müller http://bit.ly/advanced_machine_learning_scikit-learn
+- Advanced Machine Learning with scikit-learn, Andreas Müller http://bit.ly/advanced_machine_learning_scikit-learn & https://github.com/computational-class/PythonMachineLearning
