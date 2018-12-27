@@ -63,6 +63,7 @@ https://hub.mybinder.org/user/computational-c-datascience2018-x6d61dtj/tree
         - 回归任务，报告：R2指标
         - 分类任务，报告accuracy、precision、recall、f1、roc_auc_score
       - 采用cross validation的方法，对整个train data进行分析，并进行模型评价
+      - 使用多种不同的算法
     - 数据可视化：采用可视化辅助进行描述性分析、统计分析、机器学习
     - 总结：对整个研究项目的发现进行总结。
 2. 任选项目
@@ -133,4 +134,4 @@ Get the [Data](https://github.com/computational-class/asoiaf)
 - 复旦大学新媒体硕士项目《计算新闻传播学》课程  https://github.com/computational-class/cjc
 - 南京大学《数据新闻》2017课程 https://github.com/data-journalism/dj2017
 - 用Python玩转数据_南京大学_中国大学MOOC(慕课) http://www.icourse163.org/course/nju-1001571005
-- Advanced Machine Learning with scikit-learn, Andreas Müller http://bit.ly/advanced_machine_learning_scikit-learn & https://github.com/computational-class/PythonMachineLearning
+- Advanced Machine Learning with scikit-learn, Andreas Müller http://bit.ly/advanced_machine_learning_scikit-learn & https://github.com/computational-class/PythonMachineLearning & **https://www.bilibili.com/video/av23775865**
