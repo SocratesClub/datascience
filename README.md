@@ -44,7 +44,13 @@ https://hub.mybinder.org/user/computational-c-datascience2018-x6d61dtj/tree
 
 ## 研究项目 Final Project
 
-本课程鼓励采用公开的竞赛数据作为研究项目。现有数据竞赛平台很多，包括[Kaggle](https://www.kaggle.com/)、[DataFoundation](https://www.datafoundation.org/)、[阿里云天池大赛](https://tianchi.aliyun.com/)、[DC竞赛](http://www.dcjingsai.com/static_page/cmpList.html)、[BienData](https://www.biendata.com/)等。
+本课程鼓励采用公开的竞赛数据作为研究项目。现有数据竞赛平台很多，包括:
+- [Kaggle](https://www.kaggle.com/)
+- [DataFoundation](https://www.datafoundation.org/)
+- [阿里云天池大赛](https://tianchi.aliyun.com/)
+- [DC竞赛](http://www.dcjingsai.com/static_page/cmpList.html)
+- [BienData](https://www.biendata.com/)
+- [Kesci](https://www.kesci.com/home/dataset)
 
 **课程研究项目**的基本要求：
 1. 必选项目来自以下四个推荐题目。
