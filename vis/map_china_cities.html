@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/maps/china-cities.js"></script>
+
+</head>
+<body>
+    <div id="145beec2a0ed4f28b12c5f89160dcfbd" class="chart-container" style="width:900px; height:500px;"></div>
+    <script>
+        var chart_145beec2a0ed4f28b12c5f89160dcfbd = echarts.init(
+            document.getElementById('145beec2a0ed4f28b12c5f89160dcfbd'), 'white', {renderer: 'canvas'});
+        var option_145beec2a0ed4f28b12c5f89160dcfbd = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "map",
+            "name": "\u5546\u5bb6A",
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            },
+            "mapType": "china-cities",
+            "data": [
+                {
+                    "name": "\u6c55\u5934\u5e02",
+                    "value": 52
+                },
+                {
+                    "name": "\u6c55\u5c3e\u5e02",
+                    "value": 42
+                },
+                {
+                    "name": "\u63ed\u9633\u5e02",
+                    "value": 119
+                },
+                {
+                    "name": "\u9633\u6c5f\u5e02",
+                    "value": 57
+                },
+                {
+                    "name": "\u8087\u5e86\u5e02",
+                    "value": 75
+                },
+                {
+                    "name": "\u5e7f\u5dde\u5e02",
+                    "value": 28
+                },
+                {
+                    "name": "\u60e0\u5dde\u5e02",
+                    "value": 86
+                }
+            ],
+            "roam": true,
+            "zoom": 1,
+            "showLegendSymbol": true,
+            "emphasis": {},
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "\u5546\u5bb6A"
+            ],
+            "selected": {
+                "\u5546\u5bb6A": true
+            },
+            "show": true,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0
+    },
+    "title": [
+        {
+            "text": "\u4e2d\u56fd\u5730\u56fe\uff08\u5e26\u57ce\u5e02\uff09",
+            "padding": 5,
+            "itemGap": 10
+        }
+    ],
+    "visualMap": {
+        "show": true,
+        "type": "continuous",
+        "min": 0,
+        "max": 100,
+        "inRange": {
+            "color": [
+                "#50a3ba",
+                "#eac763",
+                "#d94e5d"
+            ]
+        },
+        "calculable": true,
+        "inverse": false,
+        "splitNumber": 5,
+        "orient": "vertical",
+        "showLabel": true,
+        "itemWidth": 20,
+        "itemHeight": 140,
+        "borderWidth": 0
+    }
+};
+        chart_145beec2a0ed4f28b12c5f89160dcfbd.setOption(option_145beec2a0ed4f28b12c5f89160dcfbd);
+    </script>
+</body>
+</html>
